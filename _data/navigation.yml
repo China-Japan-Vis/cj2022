@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Program"
+    url: /pages/program
+  - title: "Committee"
+    url: /pages/committee
+  - title: "Speakers"
+    url: /pages/speaker
