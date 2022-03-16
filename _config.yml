@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "China-Japan Vis"
+  name             : "China-Japan Joint Visualization Workshop"
   avatar           : #"/assets/images/logo/yun.jpg"
-  bio              : "China-Japan Visualization Workshop Community."
+  bio              : "China-Japan Joint Visualization Workshop Community."
   location         : "Tokyo, Japan"
 #  email            : ""
   links:
