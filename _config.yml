@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "China-Japan Vis"
+title                    : "C-J Vis"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : ""
 description              : ""
 url                      : #"http://MiniWokleDesign.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/China-Japan-Vis/cj2022"
+repository               : #"https://github.com/China-Japan-Vis/cj2022"
 teaser                   : # "/assets/images/background.png"
 logo                     : #"/assets/images/logo/MiniWokleDesign-logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -114,11 +114,11 @@ author:
       url: "mailto:hsiang.yun.wu@acm.org"
 
 # Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://China-Japan-Vis.github.io/cj2022"
+# footer:
+#   links:
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://China-Japan-Vis.github.io/cj2022"
 
 
 # Reading Files
