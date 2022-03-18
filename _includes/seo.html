@@ -17,7 +17,8 @@
 {% if page.canonical_url %}
   {%- assign canonical_url = page.canonical_url %}
 {% else %}
-  {%- assign canonical_url = page.url | replace: "index.html", "" | absolute_url %}
+  {% capture page_absolute_url %}https://fj.ics.keio.ac.jp/cj2022{{page.url}}{% endcapture %}
+  {%- assign canonical_url = page_absolute_url | replace: "index.html", "" %}
 {% endif %}
 
 {%- assign seo_description = page.description | default: page.excerpt | default: site.description -%}
