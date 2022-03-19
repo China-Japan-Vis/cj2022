@@ -13,7 +13,7 @@ last_modified_at: 2022-03-12
 # Workshop Chairs
 
 * **Workshop Chair**: Issei Fujishiro, Keio University, Japan
-* **Co-Chair**: Hsiang-Yun Wu, St. Pölten University of Applied Sciences, Austria.
+* **Co-Chair**: Hsiang-Yun Wu, St. Pölten University of Applied Sciences, Austria
 
 # Organizing Committee
 
@@ -30,4 +30,5 @@ last_modified_at: 2022-03-12
 
 # Web Master
 
-* Hsiang-Yun Wu, St. Pölten University of Applied Sciences, Austria.
+* Hsiang-Yun Wu, St. Pölten University of Applied Sciences, Austria
+* Masaru Ohkawara, Keio University, Japan
