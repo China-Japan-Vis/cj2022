@@ -5,8 +5,8 @@ title: "Invited Speakers"
 classes: wide
 header:
   image: /assets/images/teaser/teaser.png
-  caption: "Image credit: [**Yun**](http://yun-vis.net)"
-last_modified_at: 2022-03-12
+  caption: "Image credit: [**Keio University**](https://www.keio.ac.jp/en/)"
+last_modified_at: 2022-03-19
 ---
 
 ## Jun Tao, Sun Yat-sen University, China (SciVis)
@@ -22,7 +22,7 @@ Jun Tao is an associate professor of computer science at Sun Yat-sen University 
 </p>
 
 
-## Naoko Sawada, Mitsubishi Electronic, Japan (SciVis)
+## Naoko Sawada, Mitsubishi Electric Corporation, Japan (SciVis)
 
 <p> <strong> Title: </strong> Exploration of New Features in Multi-Dimensional Time-Dependent Datasets Using Clustering </p>
 <p> <strong> Abstract: </strong> </p>

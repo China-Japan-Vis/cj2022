@@ -5,7 +5,7 @@ title: "Program"
 classes: wide
 header:
   image: /assets/images/teaser/teaser.png
-  caption: "Image credit: [**Yun**](http://yun-vis.net)"
+  caption: "Image credit: [**Keio University**](https://www.keio.ac.jp/en/)"
 last_modified_at: 2022-03-12
 ---
 

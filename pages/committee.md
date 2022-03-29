@@ -5,7 +5,7 @@ title: "Workshop Committee"
 classes: wide
 header:
   image: /assets/images/teaser/teaser.png
-  caption: "Image credit: [**Yun**](http://yun-vis.net)"
+  caption: "Image credit: [**Keio University**](https://www.keio.ac.jp/en/)"
 last_modified_at: 2022-03-12
 ---
 
@@ -28,7 +28,7 @@ last_modified_at: 2022-03-12
 * Wei Zeng, The Hong Kong University of Science and Technology (Guangzhou), China
 * Jiawan Zhang, Tianjin University, China
 
-# Web Master
+# Web Masters
 
 * Hsiang-Yun Wu, St. Pölten University of Applied Sciences, Austria
 * Masaru Ohkawara, Keio University, Japan
