@@ -20,7 +20,7 @@ last_modified_at: 2022-03-12
   * Introduced by: Le Liu, Northwest Polytechnical University, China
 
 * 13:30-13:55
-  * Naoko Sawada, Mitsubishi Electronic, Japan (SciVis)
+  * Naoko Sawada, Mitsubishi Electric Corporation, Japan (SciVis)
   * Exploration of New Features in Multi-Dimensional Time-Dependent Datasets Using Clustering
   * Introduced by: Issei Fujishiro, Keio University, Japan
 
