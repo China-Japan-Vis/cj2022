@@ -14,4 +14,4 @@ The China-Japan Joint Visualization Workshop aims to bring together visualizatio
 
 The 5th Workshop will be held online on Thursday, April 14, 2022. It consists of 6 invited talks and panel discussions. We invited three young researchers from both China and Japan to attend this workshop and share their research, insight and experience.
 
-The registration will open soon.
+Registration is made online via this [Registration Form (Google Form)](https://forms.gle/zogG9WN4VQsJ8Tfs9). The registration system will open until 23:59 JST April 12, 2022.
