@@ -24,9 +24,9 @@ Jun Tao is an associate professor of computer science at Sun Yat-sen University 
 
 ## Naoko Sawada, Mitsubishi Electric Corporation, Japan (SciVis)
 
-<p> <strong> Title: </strong> Exploration of New Features in Multi-Dimensional Time-Dependent Datasets Using Clustering </p>
+<p> <strong> Title: </strong> Clustering-driven Visual Analytics for Universalities in Multi-Dimensional Time-Dependent Datasets </p>
 <p> <strong> Abstract: </strong> </p>
-<p> The exploration of hidden universalities is one of the challenging tasks in time-series analysis. In this talk, I will present multi-dimensional subsequence time-series clustering and a visual analytics framework for the clustering results. These approaches effectively work on examining observable time variation patterns in long-term datasets. The clustering method challenges issues of multi-dimensional subsequence time-series clustering, such as the cluster prototype definition, the similarity measurement between subsequences, the way to obtain less-overlapping subsequences, etc. I demonstrate how effectively the method enhances users’ insights into datasets through a case study for the analysis of photo-polarimetric and near-infrared observation datasets of blazars, which was conducted in a visual analytics environment for blazar datasets, termed TimeTubesX. </p>
+<p> The identification of universalities in subsequences is one of the challenging tasks in time-series analysis. In this talk, I will present a multi-dimensional time-series subsequence clustering method and a visual analytics framework for the clustering results in terms of optical photo-polarimetric and near-infrared observation datasets of blazars. The clustering method challenges the issues of multi-dimensional time-series subsequence clustering, such as the cluster prototype definition, the similarity measurement between subsequences, the way to obtain less-overlapping subsequences, and the like. Various federated views allow users to scrutinize the clustering result. A case study for an actual blazar dataset by a domain expert demonstrates how effectively the method enhances users’ insights into datasets. </p>
 <p> <strong> Biography: </strong> </p>
 <p>
 <img style="border-radius: 50%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px" src=
