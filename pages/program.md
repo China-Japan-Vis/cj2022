@@ -51,6 +51,9 @@ last_modified_at: 2022-03-12
   * Panel
   * Moderator: Hsiang-Yun Wu
   * 6 invited speakers: Jun Tao, Naoko Sawada, Chenhui Li, Rei Takami, Juanjuan Long, and Hiroaki Natsukawa.
+    * Specific Vis challenges and advantages for international collaboration, especially in China/Japan or in general Asia?
+    * Current challenges for researchers collaborating with industry in China and in Japan
+    * Career paths of visualization researchers in China and in Japan
 
 * 17:35-17:45
   * Closing: Xiaoru Yuan, Peking University, China
