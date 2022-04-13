@@ -21,7 +21,7 @@ last_modified_at: 2022-03-12
 
 * 14:30-14:55
   * Naoko Sawada, Mitsubishi Electric Corporation, Japan (SciVis)
-  * Exploration of New Features in Multi-Dimensional Time-Dependent Datasets Using Clustering
+  * Clustering-driven Visual Analytics for Universalities in Multi-Dimensional Time-Dependent Datasets
   * Introduced by: Issei Fujishiro, Keio University, Japan
 
 * 14:55-15:20
