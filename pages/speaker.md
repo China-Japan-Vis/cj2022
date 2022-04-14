@@ -73,7 +73,7 @@ Rei Takami received the M.S. degree from Tokyo Metropolitan University, in 2020.
 Juanjuan Long is an associate professor in digital media department of design School at Jiangnan University. She is mainly engaged in the research of data information visualization, graphic design, and digital media interaction design. Her information design work was published in Data Flow by Gestalten Publishing House. Her design and guidance works were selected by IEEE VIS 2021 Arts Program exhibition and shortlisted by IEEE PacificVis Visual Data Storytelling three times.
 </p>
 
-## Hiroaki Natsukawa, Kyoto University, Japan (VA)
+## Hiroaki Natsukawa, Osaka Seikei Univerisity/Kyoto University, Japan (VA)
 
 <p> <strong> Title: </strong> Ecosystem Dynamics Revealed by Combining Data-Driven Analysis and Visualization Techniques </p>
 <p> <strong> Abstract: </strong> </p>

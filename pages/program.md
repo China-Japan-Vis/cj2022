@@ -43,7 +43,7 @@ last_modified_at: 2022-03-12
   * Introduced by: Lingyun Yu, Xi’an Jiaotong-Liverpool University, China
 
 * 16:20-16:45
-  * Hiroaki Natsukawa, Kyoto University, Japan (VA)
+  * Hiroaki Natsukawa, Osaka Seikei Univerisity/Kyoto University, Japan (VA)
   * Ecosystem Dynamics Revealed by Combining Data-Driven Analysis and Visualization Techniques
   * Introduced by: Koji Koyamada, Kyoto University, Japan
 
