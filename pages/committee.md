@@ -22,6 +22,7 @@ last_modified_at: 2022-03-12
 * Koji Koyamada, Kyoto University, Japan
 * Le Liu, Northwest Polytechnical University, China
 * Kazuo Misue, University of Tsukuba, Japan
+* Ken Wakita, Tokyo Institute of Technology, Japan
 * Yadong Wu, Sichuan University of Science & Engineering, China
 * Lingyun Yu, Xi'an Jiaotong-Liverpool University, China
 * Xiaoru Yuan, Peking University, China
